@@ -1,0 +1,11 @@
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\bin\Debug\netcoreapp2.0\HerokuSample.deps.json
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\bin\Debug\netcoreapp2.0\HerokuSample.runtimeconfig.json
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\bin\Debug\netcoreapp2.0\HerokuSample.runtimeconfig.dev.json
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\bin\Debug\netcoreapp2.0\HerokuSample.dll
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\bin\Debug\netcoreapp2.0\HerokuSample.pdb
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\obj\Debug\netcoreapp2.0\HerokuSample.csprojResolveAssemblyReference.cache
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\obj\Debug\netcoreapp2.0\HerokuSample.csproj.CoreCompileInputs.cache
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\obj\Debug\netcoreapp2.0\HerokuSample.AssemblyInfoInputs.cache
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\obj\Debug\netcoreapp2.0\HerokuSample.AssemblyInfo.cs
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\obj\Debug\netcoreapp2.0\HerokuSample.dll
+C:\Users\$E27CE4FC-E484DA57E5BC8A15\Desktop\HerokuSample\HerokuSample\obj\Debug\netcoreapp2.0\HerokuSample.pdb

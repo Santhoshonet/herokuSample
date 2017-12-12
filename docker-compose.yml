@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  herokusample:
+    image: herokusample
+    build:
+      context: ./HerokuSample
+      dockerfile: Dockerfile
